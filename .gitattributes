@@ -1,0 +1,10 @@
+models/*.pth filter=lfs diff=lfs merge=lfs -text
+models/effnet-model_5-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/effnet-model_10-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/mobnet-model_5-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/mobnet-model_10-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/swin-model_5-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/swin-model_10-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/vit-model_5-epochs.pth filter=lfs diff=lfs merge=lfs -text
+models/vit-model_10-epochs.pth filter=lfs diff=lfs merge=lfs -text
+demo/model.pth filter=lfs diff=lfs merge=lfs -text
